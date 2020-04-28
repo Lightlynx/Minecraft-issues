@@ -1,0 +1,177 @@
+[19:45:05] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:45:05] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:45:05] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:45:05] [main/INFO]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[19:45:05] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Admin\Twitch\Minecraft\Install\runtime\jre-x64
+[19:45:06] [main/INFO]: Searching C:\Users\Admin\Twitch\Minecraft\Instances\Modded\mods for mods
+[19:45:06] [main/INFO]: Searching C:\Users\Admin\Twitch\Minecraft\Instances\Modded\mods\1.12.2 for mods
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Apotheosis-1.12.2-1.12.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod ApotheosisCore (shadows.ApotheosisCore) is not signed!
+[19:45:06] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/INFO]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-MC1.12-1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/WARN]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.10-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/WARN]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from lesslag-1.0-1.12.2.jar
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/WARN]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[19:45:06] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MixinBootstrap-1.0.3.jar
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in mw_2.0-0.4.4.6_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod weaponlib (com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin) is not signed!
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in NotEnoughIDs-1.5.4.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod ru.fewizz.neid.asm.Plugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/WARN]: The coremod Plugin (ru.fewizz.neid.asm.Plugin) is not signed!
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenComputers-MC1.12.2-1.7.5.192.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod li.cil.oc.common.launch.TransformerLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/WARN]: The coremod TransformerLoader (li.cil.oc.common.launch.TransformerLoader) is not signed!
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from performant-1.12.2-1.10.jar
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in RandomThings-MC1.12.2-4.2.7.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod lumien.randomthings.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Surge-1.12.2-2.0.77.jar
+[19:45:06] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:45:06] [main/WARN]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[19:45:06] [main/INFO]: Loading: com.github.terminatornl.laggoggles.tickcentral.Initializer
+[19:45:06] [main/INFO]: Loaded 1 addons.
+[19:45:06] [main/WARN]: The coremod com.github.terminatornl.tickcentral.TickCentral does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/INFO]: TickCentral is initialized! Please ignore the warning about the missing MCVersion annotation, as this mod is intended to last across many Minecraft versions!
+[19:45:06] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from VanillaFix-1.0.10-150.jar
+[19:45:06] [main/WARN]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:45:06] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:45:06] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[19:45:06] [main/INFO]: Loading tweak class name codechicken.asm.internal.Tweaker
+[19:45:06] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:45:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.6.6 Source=file:/C:/Users/Admin/Twitch/Minecraft/Instances/Modded/mods/lesslag-1.0-1.12.2.jar Env=CLIENT
+[19:45:07] [main/WARN]: The coremod LesslagCorePlugin (com.minecolonies.lesslag.LesslagCorePlugin) is not signed!
+[19:45:07] [main/INFO]: Compatibility level set to JAVA_8
+[19:45:07] [main/WARN]: The coremod PerformantLoadingPlugin (com.performant.coremod.PerformantLoadingPlugin) is not signed!
+[19:45:07] [main/INFO]: Initializing VanillaFix
+[19:45:07] [main/INFO]: Initializing StacktraceDeobfuscator
+[19:45:07] [main/INFO]: Found MCP method mappings: methods-stable_39.csv
+[19:45:07] [main/INFO]: Done initializing StacktraceDeobfuscator
+[19:45:07] [main/INFO]: Initializing Bug Fix Mixins
+[19:45:07] [main/WARN]: Mixin config mixins.vanillafix.bugs.json requires mixin subsystem version 0.7 but 0.6.6 was found. The mixin config will not be applied.
+[19:45:07] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[19:45:07] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[19:45:07] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[19:45:07] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[19:45:07] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:45:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:45:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:45:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:45:09] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Calling tweak class codechicken.asm.internal.Tweaker
+[19:45:09] [main/INFO]: [codechicken.asm.internal.Tweaker:injectIntoClassLoader:30]: false
+[19:45:09] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:45:09] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@50756c76
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:10] [main/INFO]: Found render tick with name: func_188391_a
+[19:45:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:45:10] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:45:10] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.MixinEnvironment$EnvironmentStateTweaker
+[19:45:10] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:45:10] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.MixinEnvironment$EnvironmentStateTweaker
+[19:45:10] [main/ERROR]: Unable to launch
+java.lang.ClassNotFoundException: net.minecraft.client.main.Main
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_51]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    org/spongepowered/asm/mixin/transformer/MixinInfo.<init>(Lorg/spongepowered/asm/service/IMixinService;Lorg/spongepowered/asm/mixin/transformer/MixinConfig;Ljava/lang/String;Lorg/spongepowered/asm/mixin/transformer/PluginHandle;Z)V @256: invokevirtual
+  Reason:
+    Type 'org/spongepowered/asm/mixin/transformer/MixinInfo$MixinClassNode' (current frame, stack[2]) is not assignable to 'org/objectweb/asm/tree/ClassNode'
+  Current Frame:
+    bci: @256
+    flags: { }
+    locals: { 'org/spongepowered/asm/mixin/transformer/MixinInfo', 'org/spongepowered/asm/service/IMixinService', 'org/spongepowered/asm/mixin/transformer/MixinConfig', 'java/lang/String', 'org/spongepowered/asm/mixin/transformer/PluginHandle', integer }
+    stack: { 'org/spongepowered/asm/mixin/transformer/MixinInfo', 'org/spongepowered/asm/mixin/transformer/MixinInfo', 'org/spongepowered/asm/mixin/transformer/MixinInfo$MixinClassNode' }
+  Bytecode:
+    0x0000000: 2ab7 0063 2a12 65b8 006b b500 6d2a b800
+    0x0000010: 71b5 0073 2abb 0075 59b7 0076 b500 782a
+    0x0000020: bb00 7559 b700 76b5 007a 2ab2 007c 5904
+    0x0000030: 60b3 007c b500 7e2a 2bb5 0080 2a2c b500
+    0x0000040: 822a 2db5 0084 2abb 0086 59b7 0087 2cb6
+    0x0000050: 008d b600 912d b600 91b6 0094 b500 962a
+    0x0000060: 1904 b500 982a 2cb6 009c b600 a0b5 00a2
+    0x0000070: 2a2c b600 9cb2 00a6 b600 aab5 00ac 2a2a
+    0x0000080: b400 96b7 00b0 3a06 2abb 0017 592a 1906
+    0x0000090: b700 b3b5 00b5 2a2a b400 b5b6 00b9 b500
+    0x00000a0: bb2a 2ab8 00bf b500 c1a7 001a 3a06 1906
+    0x00000b0: bf3a 06bb 005e 592a 1906 b600 ca19 06b7
+    0x00000c0: 00cd bf2a b400 c1b6 00d1 9a00 1e2a b400
+    0x00000d0: 80b9 00d5 0100 3a06 1906 c600 0e19 062a
+    0x00000e0: b400 96b9 00db 0200 2a2a 2ab4 00b5 b600
+    0x00000f0: dfb6 00e3 b500 e52a 2a2a b400 b5b6 00e9
+    0x0000100: b600 edb5 00ef 2a2a 2ab4 00b5 b600 e915
+    0x0000110: 05b6 00f3 b500 f5a7 0015 3a06 1906 bf3a
+    0x0000120: 06bb 005e 592a 1906 b700 f8bf b1       
+  Exception Handler Table:
+    bci [126, 169] => handler: 172
+    bci [126, 169] => handler: 177
+    bci [232, 279] => handler: 282
+    bci [232, 279] => handler: 287
+  Stackmap Table:
+    full_frame(@172,{Object[#2],Object[#195],Object[#137],Object[#197],Object[#199],Integer},{Object[#94]})
+    same_locals_1_stack_item_frame(@177,Object[#96])
+    same_frame(@195)
+    same_frame(@232)
+    same_locals_1_stack_item_frame(@282,Object[#94])
+    same_locals_1_stack_item_frame(@287,Object[#96])
+    same_frame(@300)
+
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:498) ~[lesslag-1.0-1.12.2.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:431) ~[lesslag-1.0-1.12.2.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.prepareConfigs(MixinTransformer.java:734) ~[lesslag-1.0-1.12.2.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.select(MixinTransformer.java:651) ~[lesslag-1.0-1.12.2.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.checkSelect(MixinTransformer.java:630) ~[lesslag-1.0-1.12.2.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transform(MixinTransformer.java:540) ~[lesslag-1.0-1.12.2.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer$Proxy.transform(MixinTransformer.java:183) ~[lesslag-1.0-1.12.2.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	... 6 more
+[19:45:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[19:45:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[19:45:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[19:45:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Runtime.exit(Runtime.java:107)
+[19:45:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.System.exit(System.java:971)
+[19:45:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[19:45:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
